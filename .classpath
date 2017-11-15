@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/commons-collections4-4.0/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/poi-3.12/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/poi-3.12/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/poi-3.12/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/poi-3.12/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/poi-3.12/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/poi-3.12/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/BAIT5/eclipse project jars/commons-codec-1.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
