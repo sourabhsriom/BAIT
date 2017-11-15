@@ -204,6 +204,8 @@ protected String sqlInstance;
       {
         try
         {
+        	
+        	//change the DBConnect class to configure for named instances
           Login.this.connect = DBConnect.dbConnector(Login.this.textIP.getText(), Login.this.textUser.getText(), Login.this.textPass.getText(), Login.this.textDB.getText());
           Map functions = new HashMap();
           String taskIDquery = "select * from [USER].[FUNCTION]";
